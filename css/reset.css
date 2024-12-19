@@ -64,6 +64,5 @@ input::-webkit-search-results-decoraion{display: none;}
 
 html {overflow-x: hidden; height: 100%;}
 img {display: block; }
-* {box-sizing: border-box; font-family: "pre_M";}
+* {box-sizing: border-box; }
 a {color: #000; text-decoration: none;}
-
